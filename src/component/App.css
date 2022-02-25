@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.newJoke {
+  color: rgb(60, 146, 180);
+  align-content: center;
+}

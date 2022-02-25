@@ -1,0 +1,15 @@
+.category {
+  background-color: lightgray;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.button {
+  background-color: white;
+  margin: 10px;
+  border-color: white;
+  width: 100px;
+  border-radius: 4px 4px 4px 4px;
+  padding: 5px 10px;
+}
